@@ -24,4 +24,8 @@ int main()
        goto x;
     }
 return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 170fd3c (something new)
